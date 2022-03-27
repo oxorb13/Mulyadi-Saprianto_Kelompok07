@@ -271,8 +271,8 @@ public class pasar_games {
     }
 
     public static void menu1(){ 
-        System.out.println("1. beli akun"); 
-        System.out.println("2. top up"); 
+        System.out.println("1. Beli akun"); 
+        System.out.println("2. Top up"); 
         System.out.print("pilih nomor : "); 
        }
     public static void jAkun1(){ 
