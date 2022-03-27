@@ -269,7 +269,6 @@ public class pasar_games {
             }
         }
     }
-}
 
     public static void menu1(){ 
         System.out.println("1. beli akun"); 
@@ -289,4 +288,5 @@ public class pasar_games {
         System.out.println("4. oxorb13 (ar8)           Rp.100.000"); 
         System.out.println("ayaka(c1)"); 
         System.out.println("beido(c0),xiangling(c1),barbara(c1),noelle(c0),diona(c0)"); 
-    }  
+    }
+}    
