@@ -289,4 +289,23 @@ public class pasar_games {
         System.out.println("ayaka(c1)"); 
         System.out.println("beido(c0),xiangling(c1),barbara(c1),noelle(c0),diona(c0)"); 
     }
+    
+    public static void Ltopupgi(){
+        System.out.println("1. 300 cristal = Rp.65.000");
+        System.out.println("2. 980 cristal = Rp.195.000");
+        System.out.println("3. 1980 cristal = Rp.390.000");
+        System.out.println("4. 3280 cristal = Rp.645.000");
+        System.out.println("5. 6480 cristal = Rp.1.280.000");
+    }
+
+    public static void LtopupALM(){
+        System.out.println("1. 465 apex coins = Rp.55.000");
+        System.out.println("2. 935 apex coins = Rp.105.000");
+        System.out.println("3. 1870 apex coins = Rp.210.000");
+        System.out.println("4. 2340 apex coins = Rp.250.000");
+        System.out.println("5. 4680 apex coins = Rp.500.000");
+        System.out.println("6. 7020 apex coins = Rp.750.000");
+        System.out.println("7. 9360 apex coins = Rp.1.000.000");
+        System.out.println("8. 14040 apex coins = Rp.1.500.000");
+    }
 }    
